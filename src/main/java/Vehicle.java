@@ -89,6 +89,6 @@ public class Vehicle {
 
     public int getFlying() { //added
         return Flying;
-    }
+    } //added to adjust sim method
 
 }
